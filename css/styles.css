@@ -31,10 +31,9 @@ body{
 .bg-light {
     background-color: #dbb08d !important;
 }
-a:link {
-    color: maroon;
+
+.table .thead-dark th{
+    color:floralwhite;
+    background-color:#6E3F19
 }
-/* visited link */
-a:visited {
-    color: rgb(43, 16, 16);
-}
+tr:hover {background-color:#dbb08db0!important}
