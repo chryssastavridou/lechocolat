@@ -29,7 +29,7 @@ body{
     z-index:0;
 }
 .bg-light {
-    background-color:  !important;
+    background-color:  important;
 }
 
 .table .thead-dark th{
@@ -37,7 +37,7 @@ body{
     background-color:#6E3F19
 }
 tr:hover {background-color:#dbb08db0!important}
-#dbb08d
+
 .tab-content {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
